@@ -1,1 +1,1 @@
-# TimeCalculator The very first version including the sum of time entered
+# TimeCalculator. Just for personal needs
